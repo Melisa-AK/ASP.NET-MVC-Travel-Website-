@@ -4,7 +4,7 @@
       <div class="div" >
          <h3 >Anasayfa</h3>
          <img src="Sayfalar/Anasayfa.JPG" width="750px",height="650px"> 
-         <img src="sayfalar/Anasayfa1.JPG" width="750px",height="650px"> 
+         <img src="Sayfalar/Anasayfa1.JPG" width="750px",height="650px"> 
     </div>
       <br>
       <div class="div" >
